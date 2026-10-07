@@ -59,3 +59,7 @@ The current repository contains the prototype entry page in [`index.html`](./ind
 ## Disclaimer
 
 MindTrack is a wellness and productivity concept. It is not a substitute for professional medical advice, diagnosis, or emergency services. Users experiencing an immediate crisis should contact local emergency services or a qualified crisis resource.
+
+## Copyright
+
+Copyright © 2025 Sibgatul Hassen. All rights reserved.
