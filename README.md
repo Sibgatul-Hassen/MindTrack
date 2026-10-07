@@ -1,8 +1,7 @@
 # MindTrack
 
-MindTrack is a mental wellness and productivity companion designed to help students and employees manage stress, anxiety, burnout, and daily productivity from one personalized platform.
-
-The project report describes a mobile-first experience that brings together wellness tracking, preventive guidance, productivity tools, and a bridge to professional support. The interface emphasizes calm visual design, low information density, accessible typography, and simple navigation.
+MindTrack is a personalized mental wellness and productivity companion for managing stress, anxiety, habits, and daily focus.
+It brings mood tracking, AI-powered guidance, productivity tools, insights, and professional support together in one calm, accessible platform.
 
 ## Prototype
 
